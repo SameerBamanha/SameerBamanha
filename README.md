@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SameerBamanha
 - 🏡 I am currently working as Associate software developer in Accenture. 
 - 👀 I’m interested in Web Development and Competitive Programming.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React. 
 - 💞️ I’m looking to collaborate on Web dev projects.
 - 📫 How to reach me sameerbamanha@gmail.com
 <!---
